@@ -13,10 +13,10 @@
             
 - **User Role** - Takes in user request
 
-**Parameters**
+**Parameters:**
 
 - **Model** - making sure to not use higher models that can increase costs
 
 - **Reasoning** - this one was pretty important. When set to *reasoning = {"effort":"low"}*, it took half the time with hardly affecting the answer's quality 
 
-- **instructions** - helps with structuring the output response. For eg: instructions = "Show answer as a table",
+- **Instructions** - helps with structuring the output response. For eg: instructions = "Show answer as a table",
