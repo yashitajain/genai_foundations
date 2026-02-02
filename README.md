@@ -8,15 +8,15 @@
 
 **Role:**
 
--**Developer Role** - Makes the response more reasoning and give explanation  "role":"developer",
+- **Developer Role** - Makes the response more reasoning and give explanation  "role":"developer",
             "content": "Talk like a credit card expert"},
             
--**User Role** - Takes in user request
+- **User Role** - Takes in user request
 
 **Parameters**
 
--**Model** - making sure to not use higher models that can increase costs
+- **Model** - making sure to not use higher models that can increase costs
 
--**Reasoning** - this one was pretty important. When set to *reasoning = {"effort":"low"}*, it took half the time with hardly affecting the answer's quality 
+- **Reasoning** - this one was pretty important. When set to *reasoning = {"effort":"low"}*, it took half the time with hardly affecting the answer's quality 
 
--**instructions** - helps with structuring the output response. For eg: instructions = "Show answer as a table",
+- **instructions** - helps with structuring the output response. For eg: instructions = "Show answer as a table",
