@@ -1,6 +1,8 @@
-                           **Exploring OpenAI Prompt Behavior to Build Business-Ready GenAI Systems**
+                           Exploring OpenAI Prompt Behavior to Build Business-Ready GenAI Systems
                            
 **Created a simple openAI API call to understand more about prompts, parameters and role.**
+How to run: 
+
 
 **Prompts:** 
 
